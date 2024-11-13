@@ -26,9 +26,9 @@ v)Altair: For creating visualizations.
 
 Usage
 
-#Enter text in the input area and click "Analyze" to perform sentiment analysis.
-#Use the slider to adjust polarity thresholds, affecting sentiment classification.
-#View overall sentiment scores and token-level sentiments, along with visualizations.
+//Enter text in the input area and click "Analyze" to perform sentiment analysis.
+//Use the slider to adjust polarity thresholds, affecting sentiment classification.
+//View overall sentiment scores and token-level sentiments, along with visualizations.
 
     Enter text in the input area and click "Analyze" to perform sentiment analysis.
     Use the slider to adjust polarity thresholds, affecting sentiment classification.
